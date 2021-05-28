@@ -1,0 +1,7 @@
+USER
+
+
+Name
+Lastname
+Email
+Date of birth
